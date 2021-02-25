@@ -8,8 +8,8 @@ print(5+6)
 
 4 Gorjuðkins Iïja
 
-5 Lanka Elîna
-
+5 Lanka Elîna 
+print(10+5)
 6 Lazarevs Artjoms
 
 7 Ïebede Anastasija
