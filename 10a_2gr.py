@@ -9,7 +9,7 @@ print(10+6)
 4 Gorjuðkins Iïja
 
 5 Lanka Elîna
-
+print(10+8)
 6 Lazarevs Artjoms
 
 7 Ïebede Anastasija
